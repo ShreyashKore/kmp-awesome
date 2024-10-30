@@ -967,6 +967,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/dio.github.jan-tennert.supabase/supabase-kt)](https://central.sonatype.com/artifact/io.github.jan-tennert.supabase/supabase-kt)
 > Supabase is an open source Firebase alternative. Database, Auth, Storage, Edge Functions, Realtime, AI & Vectors
 
+[pocketbase-kotlin](https://github.com/agrevster/pocketbase-kotlin) - A multi-platform Kotlin SDK for Pocketbase
+[![GitHub Repo stars](https://img.shields.io/github/stars/agrevster/pocketbase-kotlin?style=flat)](https://github.com/agrevster/pocketbase-kotlin)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.agrevster/pocketbase-kotlin)](https://central.sonatype.com/artifact/io.github.agrevster/pocketbase-kotlin)
+> Pocketbase Kotlin is a multi-platform Kotlin SDK for Pocketbase. Current supported Pocketbase Versions 0.20+
+
 [openai-kotlin](https://github.com/Aallam/openai-kotlin) - OpenAI SDK 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Aallam/openai-kotlin?style=flat)](https://github.com/Aallam/openai-kotlin)
 [![Maven Central](https://img.shields.io/maven-central/v/com.aallam.openai/openai-client)](https://central.sonatype.com/artifact/com.aallam.openai/openai-client)
